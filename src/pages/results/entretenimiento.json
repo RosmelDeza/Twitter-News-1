@@ -1,0 +1,65 @@
+{
+    "news": [
+        {
+            "id": 1440133681507602432,
+            "title": "#ExaTrends #EdSheeran se prepara para su nuevo tour. \ud83e\udd29\ud83c\udfb6 El cantante ha confirmado la primera serie de conciertos de su pr\u00f3ximo tour \"+ \u2013 = \u00f7 X\".\ud83d\ude4c\ud83d\ude0e \ud83d\udcf8: Ed Sheeran",
+            "date": "2021-09-21 02:00:00",
+            "screen_name": "ExaFM",
+            "name": "Exa FM",
+            "img": "http://pbs.twimg.com/media/E_w38CMWUAABpET.jpg",
+            "url": [
+                "https://t.co/5unCMmT3v8"
+            ],
+            "category": "entretenimiento",
+            "score": 6,
+            "sentiment": "sentiment/1440133681507602432.jpg",
+            "wordcloud": "wordcloud/1440133681507602432.jpg",
+            "entities": [
+                "tour el cantante",
+                "conciertos",
+                "tour"
+            ]
+        },
+        {
+            "id": 1439631584718573568,
+            "title": "Pron\u00f3sticos #Emmys2021 : Mejor mini serie: Gambito de Dama (#Netflix); mejores actuaciones estelares mini serie: Anya Taylor-Joy (Gambito de Dama) y Paul Bettany (WandaVision); mejores actuaciones de reparto: Kathryn Hahn (WandaVision) y Evan Peters (Mare of Easttown)",
+            "date": "2021-09-19 16:44:51",
+            "screen_name": "marincine",
+            "name": "Eduardo Mar\u00edn Conde",
+            "img": "http://pbs.twimg.com/media/E_qZSV-VkAEonPm.jpg",
+            "url": [
+                "https://t.co/j51YJ6QPO2"
+            ],
+            "category": "entretenimiento",
+            "score": 6,
+            "sentiment": "sentiment/1439631584718573568.jpg",
+            "wordcloud": "wordcloud/1439631584718573568.jpg",
+            "entities": [
+                "Easttown",
+                "WandaVision",
+                "Paul Bettany"
+            ]
+        },
+        {
+            "id": 1439796582870888448,
+            "title": "\"The Crown\" fue la gran ganadora de la noche, alzando 7 #Emmys: \ud83c\udfc6 Mejor Serie Dram\u00e1tica \ud83c\udfc6 Mejor Actor \ud83c\udfc6 Mejor Actriz \ud83c\udfc6 Mejor Actor de Reparto \ud83c\udfc6 Mejor Actriz de Reparto \ud83c\udfc6 Mejor Direcci\u00f3n \ud83c\udfc6 Mejor Guionista",
+            "date": "2021-09-20 03:40:30",
+            "screen_name": "infobaeamerica",
+            "name": "Infobae Am\u00e9rica",
+            "img": "http://pbs.twimg.com/media/E_svWcZWYAEC_V3.jpg",
+            "url": [
+                "https://t.co/DQVhsahQIN",
+                "https://t.co/sYXuZanYIi"
+            ],
+            "category": "entretenimiento",
+            "score": 7,
+            "sentiment": "sentiment/1439796582870888448.jpg",
+            "wordcloud": "wordcloud/1439796582870888448.jpg",
+            "entities": [
+                "Crown",
+                "Actor",
+                "Serie"
+            ]
+        }
+    ]
+}

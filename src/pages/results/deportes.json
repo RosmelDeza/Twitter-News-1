@@ -1,0 +1,229 @@
+{
+    "news": [
+        {
+            "id": 1439802747742785536,
+            "title": "\ud83c\udfd0 \u00a1Grandes! \ud83c\udde8\ud83c\uddf4 Colombia clasific\u00f3 al Mundial de voleibol del 2022. Le contamos \ud83d\udc49",
+            "date": "2021-09-20 04:04:59",
+            "screen_name": "ELTIEMPO",
+            "name": "EL TIEMPO",
+            "img": "http://pbs.twimg.com/media/E_s0-B3WUAE2ArW.jpg",
+            "url": [
+                "https://t.co/jHeE4abXUN",
+                "https://t.co/wzK4kpwn51"
+            ],
+            "category": "deportes",
+            "score": 11,
+            "sentiment": "sentiment/1439802747742785536.jpg",
+            "wordcloud": "wordcloud/1439802747742785536.jpg",
+            "entities": [
+                "Colombia",
+                "Mundial de voleibol del",
+                "voleibol"
+            ]
+        },
+        {
+            "id": 1440373331488743424,
+            "title": "\ud83d\udea8 #\u00daLTIMOMINUTO \u00a1TRIPLETE DE GIANLUCA LAPADULA! \ud83e\udd2f El delantero peruano \ud83c\uddf5\ud83c\uddea est\u00e1 en un tremendo momento \ud83d\udd25 y le da el 4-1 al Benevento \ud83d\udd34\ud83d\udfe1 frente al Citadella \ud83d\udd34 por la fecha 5 de la Serie B \ud83c\udfc6\ud83c\uddee\ud83c\uddf9. #AlientaDesdeCasa",
+            "date": "2021-09-21 17:52:17",
+            "screen_name": "GOLPERUoficial",
+            "name": "GOLPERU",
+            "img": "http://pbs.twimg.com/media/E_071QuVQAw5URX.jpg",
+            "url": [
+                "https://t.co/0utoa4d8y9"
+            ],
+            "category": "deportes",
+            "score": 9,
+            "sentiment": "sentiment/1440373331488743424.jpg",
+            "wordcloud": "wordcloud/1440373331488743424.jpg",
+            "entities": [
+                "delantero",
+                "el delantero peruano",
+                "TRIPLETE"
+            ]
+        },
+        {
+            "id": 1440374825160114176,
+            "title": "\ud83c\uddf5\ud83c\uddea \u00a1Partidazo de Gianluca Lapadula vs Cittadella! \u2022 45' jugados \u2022 3 goles \u2022 3/4 tiros al arco \u2022 1 pase clave \u2022 16 toques de bal\u00f3n \u2022 4/7 duelos ganados \u2022 4 faltas recibidas \u2022 9.3 Nota SofaScore \ud83c\udf6b\ud83c\udf6b",
+            "date": "2021-09-21 17:58:13",
+            "screen_name": "SofaScoreLA",
+            "name": "SofaScore Latin America",
+            "img": "http://pbs.twimg.com/media/E_08Z_BVkAIzGy4.jpg",
+            "url": [
+                "https://t.co/4z0G2OZHvB"
+            ],
+            "category": "deportes",
+            "score": 7,
+            "sentiment": "sentiment/1440374825160114176.jpg",
+            "wordcloud": "wordcloud/1440374825160114176.jpg",
+            "entities": [
+                "SofaScore",
+                "Gianluca",
+                "faltas"
+            ]
+        },
+        {
+            "id": 1440373001111760896,
+            "title": "Gana 4-1 @bncalcio sobre Citadella con Lapadula autor de hat trick solo jugando el segundo tiempo. Crack @G_Lapadula",
+            "date": "2021-09-21 17:50:58",
+            "screen_name": "E_FLEISCHMAN",
+            "name": "EDDIE FLEISCHMAN",
+            "img": "http://pbs.twimg.com/media/E_07m03VgAE4KBF.jpg",
+            "url": [
+                "https://t.co/XQAPlsOeyv"
+            ],
+            "category": "deportes",
+            "score": 7,
+            "sentiment": "sentiment/1440373001111760896.jpg",
+            "wordcloud": "wordcloud/1440373001111760896.jpg",
+            "entities": [
+                "autor",
+                "Crack G Lapadula",
+                "Citadella"
+            ]
+        },
+        {
+            "id": 1438852701106941952,
+            "title": "\u00a1VAMOS, LAPAGOL! Con la presencia de nuestro goleador \u26bd, Gianluca Lapadula \ud83c\uddf5\ud83c\uddea\ud83e\udd29, Benevento \ud83d\udd34\ud83d\udfe0 present\u00f3 su lista de convocados \ud83d\udccb para enfrentar ma\u00f1ana desde las 7:00 AM. al Ascoli por la jornada 4 de la Serie B \ud83c\udfc6\ud83c\uddee\ud83c\uddf9. #AlientaDesdeCasa",
+            "date": "2021-09-17 13:09:51",
+            "screen_name": "GOLPERUoficial",
+            "name": "GOLPERU",
+            "img": "http://pbs.twimg.com/media/E_fU1iNWQAEikxA.jpg",
+            "url": [
+                "https://t.co/x4aI1iG6Hc"
+            ],
+            "category": "deportes",
+            "score": 7,
+            "sentiment": "sentiment/1438852701106941952.jpg",
+            "wordcloud": "wordcloud/1438852701106941952.jpg",
+            "entities": [
+                "goleador",
+                "jornada",
+                "Gianluca"
+            ]
+        },
+        {
+            "id": 1440369273075945472,
+            "title": "\ud83d\udea8 #\u00daLTIMOMINUTO \u00a1GOL DEL BAMBINO! Gianluca Lapadula \ud83c\uddf5\ud83c\uddea le da el 2-1 a Benevento \ud83d\udd34\ud83d\udfe1 frente al Cittadella \ud83d\udd34 en el choque correspondiente a la quinta jornada de la Serie B \ud83c\udfc6\ud83c\uddee\ud83c\uddf9. \u00a1SIGUE AS\u00cd, GOLEADOR \ud83d\udd25\ud83d\udc4f! #AlientaDesdeCasa",
+            "date": "2021-09-21 17:36:10",
+            "screen_name": "GOLPERUoficial",
+            "name": "GOLPERU",
+            "img": "http://pbs.twimg.com/media/E_04MOOVUAIKium.jpg",
+            "url": [
+                "https://t.co/bGO5gzqKRA"
+            ],
+            "category": "deportes",
+            "score": 6,
+            "sentiment": "sentiment/1440369273075945472.jpg",
+            "wordcloud": "wordcloud/1440369273075945472.jpg",
+            "entities": [
+                "jornada",
+                "Gianluca",
+                "Serie B"
+            ]
+        },
+        {
+            "id": 1437848442341036032,
+            "title": "#UCL #YBMUFC\u2694 \u26bd\u00a1Gol de Siebatcheu a un minuto de acabar el partido! \ud83d\udfe1\u26ab 2\ud83c\udd9a1 \ud83d\udd34\ud83d\udd34 (90+4') #EnDirecto\u25b6",
+            "date": "2021-09-14 18:39:17",
+            "screen_name": "sport",
+            "name": "Diario SPORT",
+            "img": "http://pbs.twimg.com/ext_tw_video_thumb/1437848421789048840/pu/img/r_i1R6_t6S7TxT9N.jpg",
+            "url": [
+                "https://t.co/dywxb2eKZZ",
+                "https://t.co/PFCqXhQqxY"
+            ],
+            "category": "deportes",
+            "score": 6,
+            "sentiment": "sentiment/1437848442341036032.jpg",
+            "wordcloud": "wordcloud/1437848442341036032.jpg",
+            "entities": [
+                "UCL",
+                "EnDirecto",
+                "Gol"
+            ]
+        },
+        {
+            "id": 1439254155760185344,
+            "title": "\u00a1VAMOS! Con Gianluca Lapadula \ud83c\uddf5\ud83c\uddea desde el 71', el Benevento \ud83d\udd34\ud83d\udfe1 venci\u00f3 2-0 al Ascoli \ud83d\udd34 en condici\u00f3n de visitante en el choque correspondiente a la cuarta fecha de la Serie B \ud83c\udfc6\ud83c\uddee\ud83c\uddf9. El equipo del delantero peruano es s\u00e9ptimo con siete puntos \ud83d\udd25. #AlientaDesdeCasa",
+            "date": "2021-09-18 15:45:05",
+            "screen_name": "GOLPERUoficial",
+            "name": "GOLPERU",
+            "img": "http://pbs.twimg.com/media/E_k_T6vWUAgu8r_.jpg",
+            "url": [
+                "https://t.co/CCyskyLqQf"
+            ],
+            "category": "deportes",
+            "score": 5,
+            "sentiment": "sentiment/1439254155760185344.jpg",
+            "wordcloud": "wordcloud/1439254155760185344.jpg",
+            "entities": [
+                "delantero",
+                "Gianluca",
+                "Serie B"
+            ]
+        },
+        {
+            "id": 1440742221045665792,
+            "title": "\ud83d\udcf8Sport Boys gana 3 - 2 ante el Cusco FC, en un encuentro por la fecha 12 en el estadio Iv\u00e1n El\u00edas Moreno de Villa el Salvador. Mira la galer\u00eda completa aqu\u00ed\ud83d\udc49 Foto: @LigaFutProf",
+            "date": "2021-09-22 18:18:07",
+            "screen_name": "Agencia_Andina",
+            "name": "Agencia Andina",
+            "img": "http://pbs.twimg.com/media/E_6LI6wUcAIKVvr.jpg",
+            "url": [
+                "https://t.co/2L4ts7JTiF",
+                "https://t.co/m1453vh33Y"
+            ],
+            "category": "deportes",
+            "score": 5,
+            "sentiment": "sentiment/1440742221045665792.jpg",
+            "wordcloud": "wordcloud/1440742221045665792.jpg",
+            "entities": [
+                "galer\u00eda",
+                "Foto LigaFutProf",
+                "Villa"
+            ]
+        },
+        {
+            "id": 1437823589286354944,
+            "title": "#UCL #YBMUFC\u2694 \u26bd\u00a1Gol de Cristiano Ronaldo! \ud83d\udfe1\u26ab 0\ud83c\udd9a1 \ud83d\udd34\ud83d\udd34 (14') #EnDirecto\u25b6",
+            "date": "2021-09-14 17:00:31",
+            "screen_name": "sport",
+            "name": "Diario SPORT",
+            "img": "http://pbs.twimg.com/tweet_video_thumb/E_Qs2EyWUAIHUlN.jpg",
+            "url": [
+                "https://t.co/dywxb2eKZZ",
+                "https://t.co/3VUtI6ZI7A"
+            ],
+            "category": "deportes",
+            "score": 5,
+            "sentiment": "sentiment/1437823589286354944.jpg",
+            "wordcloud": "wordcloud/1437823589286354944.jpg",
+            "entities": [
+                "Ronaldo",
+                "UCL",
+                "EnDirecto"
+            ]
+        },
+        {
+            "id": 1437819933707153408,
+            "title": "#UCL #YBMUFC\u2694 \ud83d\udca5\u00a1Arranca el partido! \ud83d\udfe1\u26ab 0\ud83c\udd9a0 \ud83d\udd34\ud83d\udd34 (1') #EnDirecto\u25b6",
+            "date": "2021-09-14 16:46:00",
+            "screen_name": "sport",
+            "name": "Diario SPORT",
+            "img": "http://pbs.twimg.com/media/E_QotR8XMAEQ6Lz.jpg",
+            "url": [
+                "https://t.co/dywxb2eKZZ",
+                "https://t.co/Th5SGmfvqn"
+            ],
+            "category": "deportes",
+            "score": 5,
+            "sentiment": "sentiment/1437819933707153408.jpg",
+            "wordcloud": "wordcloud/1437819933707153408.jpg",
+            "entities": [
+                "partido",
+                "UCL",
+                "EnDirecto"
+            ]
+        }
+    ]
+}

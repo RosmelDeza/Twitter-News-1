@@ -1,0 +1,45 @@
+{
+    "news": [
+        {
+            "id": 1440695129153564672,
+            "title": "\ud83d\udce2 El titular de la @pcmperu, Guido Bellido, anuncia la creaci\u00f3n del Ministerio de Ciencia y Tecnolog\u00eda e Innovaci\u00f3n. \ud83d\udc49",
+            "date": "2021-09-22 15:11:00",
+            "screen_name": "DiarioElPeruano",
+            "name": "Diario El Peruano",
+            "img": "http://pbs.twimg.com/media/E_5NPtKUUAQdttd.png",
+            "url": [
+                "https://t.co/BvfVz3TPpB",
+                "https://t.co/9lXccEx6U7"
+            ],
+            "category": "ciencia",
+            "score": 7,
+            "sentiment": "sentiment/1440695129153564672.jpg",
+            "wordcloud": "wordcloud/1440695129153564672.jpg",
+            "entities": [
+                "Guido",
+                "Bellido",
+                "Tecnolog\u00eda"
+            ]
+        },
+        {
+            "id": 1438555716562919424,
+            "title": "Nuestro Laboratorio de Gen\u00f3mica investiga #EnfermedadesInfecciosas para fortalecer nuestra #SaludP\u00fablica y procesa pruebas moleculares de SARS-CoV-2. Aqu\u00ed, contamos un poco m\u00e1s sobre sus proyectos de #Investigaci\u00f3n. \ud83e\uddf5 #LaboratorioPUCP #PUCP",
+            "date": "2021-09-16 17:29:44",
+            "screen_name": "pucp",
+            "name": "PUCP",
+            "img": "http://pbs.twimg.com/media/E_bGtI4XMAMDyeI.jpg",
+            "url": [
+                "https://t.co/ryGa8qAtoa"
+            ],
+            "category": "ciencia",
+            "score": 5,
+            "sentiment": "sentiment/1438555716562919424.jpg",
+            "wordcloud": "wordcloud/1438555716562919424.jpg",
+            "entities": [
+                "LaboratorioPUCP",
+                "SARS",
+                "pruebas"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "news": [
+        {
+            "id": 1438117145825710080,
+            "title": "Aunque este 2021 el #Ecuador recibi\u00f3 en inversi\u00f3n peruana USD 693 000 hasta marzo, una empresa ya tramita un contrato de inversi\u00f3n por USD 12 millones. Otras alistan su arribo \u00bb",
+            "date": "2021-09-15 12:27:01",
+            "screen_name": "elcomerciocom",
+            "name": "El Comercio",
+            "img": "http://pbs.twimg.com/media/E_U36faWQAUEkJA.jpg",
+            "url": [
+                "https://t.co/vp3V8rOHiR",
+                "https://t.co/QNJbVQ5CZq"
+            ],
+            "category": "economia",
+            "score": 9,
+            "sentiment": "sentiment/1438117145825710080.jpg",
+            "wordcloud": "wordcloud/1438117145825710080.jpg",
+            "entities": [
+                "empresa",
+                "contrato",
+                "Ecuador"
+            ]
+        },
+        {
+            "id": 1440717991415476224,
+            "title": "\ud83d\udcfa TV en DIRECTO | Pedro S\u00e1nchez, comparece desde Nueva York: \"Durante este \u00faltimo a\u00f1o y medio vivimos un momento de aceleraci\u00f3n de la historia. El Gobierno va a defender siempre un modelo de mayor cohesi\u00f3n internacional\"",
+            "date": "2021-09-22 16:41:51",
+            "screen_name": "el_pais",
+            "name": "EL PA\u00cdS",
+            "img": "http://pbs.twimg.com/amplify_video_thumb/1440717704785137667/img/R9CxzyNE6OvSogFf.jpg",
+            "url": [
+                "https://t.co/DdRfHTapB9",
+                "https://t.co/iXDqNUeQFZ"
+            ],
+            "category": "economia",
+            "score": 8,
+            "sentiment": "sentiment/1440717991415476224.jpg",
+            "wordcloud": "wordcloud/1440717991415476224.jpg",
+            "entities": [
+                "a\u00f1o",
+                "modelo",
+                "aceleraci\u00f3n"
+            ]
+        },
+        {
+            "id": 1440009401310580736,
+            "title": "Ministro de Econom\u00eda y Finanzas, @pedrofrancke, junto al presidente @PedroCastilloTe, y el titular del @MINCETUR, participaron en reuni\u00f3n con empresarios de @USChamber y @amchamperu para promover la inversi\u00f3n privada y el comercio en el Per\u00fa.",
+            "date": "2021-09-20 17:46:10",
+            "screen_name": "MEF_Peru",
+            "name": "Ministerio de Econom\u00eda y Finanzas",
+            "img": "http://pbs.twimg.com/media/E_vwxHqXoAIc2oE.jpg",
+            "url": [
+                "https://t.co/caHudzttM5"
+            ],
+            "category": "economia",
+            "score": 7,
+            "sentiment": "sentiment/1440009401310580736.jpg",
+            "wordcloud": "wordcloud/1440009401310580736.jpg",
+            "entities": [
+                "USChamber",
+                "presidente",
+                "amchamperu"
+            ]
+        },
+        {
+            "id": 1438684127734423552,
+            "title": "#PlusG | La llegada a m\u00e1s pa\u00edses permite un potencial de crecimiento importante y esto es beneficioso para la industria nacional de este fruto. Hoy ya llega a 31 pa\u00edses, pero va por m\u00e1s. \u25bahttps://t.co/QTiN4lMqgq",
+            "date": "2021-09-17 02:00:00",
+            "screen_name": "Gestionpe",
+            "name": "Diario Gesti\u00f3n",
+            "img": "http://pbs.twimg.com/media/E_b8hK1XEAITOtA.jpg",
+            "url": [
+                "https://t.co/HaAiKwUqEE"
+            ],
+            "category": "economia",
+            "score": 6,
+            "sentiment": "sentiment/1438684127734423552.jpg",
+            "wordcloud": "wordcloud/1438684127734423552.jpg",
+            "entities": [
+                "industria",
+                "fruto",
+                "crecimiento"
+            ]
+        },
+        {
+            "id": 1438981094125314048,
+            "title": "El trazado para la interconexi\u00f3n el\u00e9ctrica Ecuador - Per\u00fa pasar\u00e1 por zonas bananeras de Guayas y El Oro \u25bahttps://t.co/Muh1cfZxR8",
+            "date": "2021-09-17 21:40:02",
+            "screen_name": "eluniversocom",
+            "name": "El Universo",
+            "img": "http://pbs.twimg.com/media/E_hJrhIX0AAAhT1.jpg",
+            "url": [
+                "https://t.co/gdV473IjFC"
+            ],
+            "category": "economia",
+            "score": 5,
+            "sentiment": "sentiment/1438981094125314048.jpg",
+            "wordcloud": "wordcloud/1438981094125314048.jpg",
+            "entities": [
+                "trazado",
+                "Guayas",
+                "Ecuador"
+            ]
+        },
+        {
+            "id": 1440335429870317568,
+            "title": "#ColumnasFinancieras \ud83d\udcb8 | China tumba a mercados y sindicato petrolero emplaza a huelga \ud83d\udc49https://t.co/Ht7VfRZq1O",
+            "date": "2021-09-21 15:21:41",
+            "screen_name": "AristeguiOnline",
+            "name": "Aristegui Noticias",
+            "img": "http://pbs.twimg.com/media/E_0ZcHwVkAMMAIh.jpg",
+            "url": [
+                "https://t.co/e3IijpkC8W"
+            ],
+            "category": "economia",
+            "score": 5,
+            "sentiment": "sentiment/1440335429870317568.jpg",
+            "wordcloud": "wordcloud/1440335429870317568.jpg",
+            "entities": [
+                "ColumnasFinancieras",
+                "huelga",
+                "China"
+            ]
+        },
+        {
+            "id": 1438491436018700288,
+            "title": "\ud83c\udf99#LRPodcast | Repasa los hechos m\u00e1s importantes a nivel nacional e internacional de hoy en el resumen de Informe Matinal: Guido Bellido huye de reclamos y hoy Congreso define la suerte del cad\u00e1ver de Abimael Esc\u00fachanos aqu\u00ed \u25ba \ud83c\udfa7 Locuci\u00f3n: @jozestereo",
+            "date": "2021-09-16 13:14:18",
+            "screen_name": "larepublica_pe",
+            "name": "Diario La Rep\u00fablica",
+            "img": "http://pbs.twimg.com/media/E_aKyWBWEAQOic2.jpg",
+            "url": [
+                "https://t.co/xVqAo8DPi6",
+                "https://t.co/ZH2CsRIPJ0"
+            ],
+            "category": "economia",
+            "score": 5,
+            "sentiment": "sentiment/1438491436018700288.jpg",
+            "wordcloud": "wordcloud/1438491436018700288.jpg",
+            "entities": [
+                "Guido",
+                "suerte",
+                "Bellido"
+            ]
+        },
+        {
+            "id": 1437764910566494208,
+            "title": "\ud83c\udf99#LRPodcast | Repasa los hechos m\u00e1s importantes a nivel nacional e internacional de hoy, martes 14 de septiembre del 2021, en el resumen de Informe Matinal: Guido Bellido retrocede mientras la vacunaci\u00f3n avanza Esc\u00fachanos aqu\u00ed \u25ba \ud83c\udfa7Locuci\u00f3n: @WinnyMoya",
+            "date": "2021-09-14 13:07:21",
+            "screen_name": "larepublica_pe",
+            "name": "Diario La Rep\u00fablica",
+            "img": "http://pbs.twimg.com/media/E_P2sggXoAccRZu.jpg",
+            "url": [
+                "https://t.co/CyHgMXMyvB",
+                "https://t.co/FyMP1IeO7n"
+            ],
+            "category": "economia",
+            "score": 5,
+            "sentiment": "sentiment/1437764910566494208.jpg",
+            "wordcloud": "wordcloud/1437764910566494208.jpg",
+            "entities": [
+                "Guido",
+                "Locuci\u00f3n WinnyMoya",
+                "Bellido"
+            ]
+        }
+    ]
+}

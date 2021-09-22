@@ -1,0 +1,85 @@
+{
+    "news": [
+        {
+            "id": 1440500980840210432,
+            "title": "#EEGElOrigen El\u00edas Montalvo: Usuarios recuerdan cuando Austin Palao se quej\u00f3 de seguridad de los juegos de EEG \u25bahttps://t.co/iECVvYrhAu",
+            "date": "2021-09-22 02:19:31",
+            "screen_name": "elpopular_pe",
+            "name": "El Popular",
+            "img": "http://pbs.twimg.com/media/E_2wAXAUcAU_AUR.jpg",
+            "url": [
+                "https://t.co/kWAvhxVI3M"
+            ],
+            "category": "espectaculos",
+            "score": 5,
+            "sentiment": "sentiment/1440500980840210432.jpg",
+            "wordcloud": "wordcloud/1440500980840210432.jpg",
+            "entities": [
+                "EEGElOrigen",
+                "iECVvYrhAu",
+                "Palao"
+            ]
+        },
+        {
+            "id": 1440648162444648448,
+            "title": "El\u00edas Montalvo de #EEGElOrigen se salv\u00f3 con las justas ayer. buen momento para hablar de los medios, su regulaci\u00f3n y la ley que ha propuesto Per\u00fa Libre",
+            "date": "2021-09-22 12:04:22",
+            "screen_name": "ocram",
+            "name": "\ud83c\udf44 Marco Sifuentes",
+            "img": "",
+            "url": [
+                "https://t.co/MMjSDYnH5r"
+            ],
+            "category": "espectaculos",
+            "score": 5,
+            "sentiment": "sentiment/1440648162444648448.jpg",
+            "wordcloud": "wordcloud/1440648162444648448.jpg",
+            "entities": [
+                "medios",
+                "momento",
+                "Libre"
+            ]
+        },
+        {
+            "id": 1438702828571222016,
+            "title": "Concierto desde las pir\u00e1mides de Egipto: As\u00ed ser\u00e1 el pr\u00f3ximo show de los Black Eyed Peas",
+            "date": "2021-09-17 03:14:18",
+            "screen_name": "Milenio",
+            "name": "Milenio",
+            "img": "http://pbs.twimg.com/media/E_dMl2_XEAAPKPa.jpg",
+            "url": [
+                "https://t.co/9xRJ1iwVHS",
+                "https://t.co/ijBnkge4zl"
+            ],
+            "category": "espectaculos",
+            "score": 5,
+            "sentiment": "sentiment/1438702828571222016.jpg",
+            "wordcloud": "wordcloud/1438702828571222016.jpg",
+            "entities": [
+                "Eyed",
+                "Black Eyed Peas",
+                "pir\u00e1mides"
+            ]
+        },
+        {
+            "id": 1440498307017502720,
+            "title": "#EEGElOrigen \u201cCancelen EEG\u201d: El\u00edas Montalvo cay\u00f3 desde varios metros de altura y usuarios hacen tendencia [VIDEO] \u25bahttps://t.co/32LT5d5pNw",
+            "date": "2021-09-22 02:08:54",
+            "screen_name": "elpopular_pe",
+            "name": "El Popular",
+            "img": "http://pbs.twimg.com/media/E_2tku8VcAIV9o-.jpg",
+            "url": [
+                "https://t.co/1iApaGyEzn"
+            ],
+            "category": "espectaculos",
+            "score": 5,
+            "sentiment": "sentiment/1440498307017502720.jpg",
+            "wordcloud": "wordcloud/1440498307017502720.jpg",
+            "entities": [
+                "El\u00edas Montalvo",
+                "metros",
+                "altura"
+            ]
+        }
+    ]
+}

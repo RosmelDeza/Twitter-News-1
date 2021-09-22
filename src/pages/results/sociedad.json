@@ -1,0 +1,87 @@
+{
+    "news": [
+        {
+            "id": 1440760834339180544,
+            "title": "\ud83d\udd34M\u00e1s de 850 hect\u00e1reas de cobertura natural devast\u00f3 el incendio forestal que afect\u00f3 a tres distritos ubicados en la provincia de Cusco, cerca de la Ciudad Imperial.",
+            "date": "2021-09-22 19:32:05",
+            "screen_name": "Agencia_Andina",
+            "name": "Agencia Andina",
+            "img": "http://pbs.twimg.com/media/E_6cSh3UUAE33bV.jpg",
+            "url": [
+                "https://t.co/9GCI6CgkbA",
+                "https://t.co/kY2WT6pxck"
+            ],
+            "category": "sociedad",
+            "score": 8,
+            "sentiment": "sentiment/1440760834339180544.jpg",
+            "wordcloud": "wordcloud/1440760834339180544.jpg",
+            "entities": [
+                "provincia",
+                "cobertura",
+                "Ciudad Imperial"
+            ]
+        },
+        {
+            "id": 1437858688887255040,
+            "title": "\ud83c\uddf5\ud83c\uddea Congresistas de derecha en Per\u00fa pidieron ver el cuerpo de Abimael Guzm\u00e1n, cabecilla de la organizaci\u00f3n terrorista Sendero Luminoso. \u00bfQu\u00e9 va a pasar luego de su muerte? Le contamos \u279f #VideosAFP",
+            "date": "2021-09-14 19:20:00",
+            "screen_name": "ELTIEMPO",
+            "name": "EL TIEMPO",
+            "img": "http://pbs.twimg.com/media/E_QvB1nXsAQVU0t.jpg",
+            "url": [
+                "https://t.co/OCjxVefi8V",
+                "https://t.co/NoloXqdfDc"
+            ],
+            "category": "sociedad",
+            "score": 5,
+            "sentiment": "sentiment/1437858688887255040.jpg",
+            "wordcloud": "wordcloud/1437858688887255040.jpg",
+            "entities": [
+                "Guzm\u00e1n",
+                "organizaci\u00f3n",
+                "Abimael"
+            ]
+        },
+        {
+            "id": 1437841643957280768,
+            "title": "Per\u00fa: Congresistas de derecha han exigido ver el cad\u00e1ver de Abimael Guzm\u00e1n, fundador del grupo comunista 'Sendero Luminoso', para corroborar el paradero sus restos",
+            "date": "2021-09-14 18:12:16",
+            "screen_name": "NTN24",
+            "name": "NTN24",
+            "img": "http://pbs.twimg.com/media/E_Q8hWKWUAAg4LW.jpg",
+            "url": [
+                "https://t.co/CXyaotioAD",
+                "https://t.co/UKhSkHY5t7"
+            ],
+            "category": "sociedad",
+            "score": 5,
+            "sentiment": "sentiment/1437841643957280768.jpg",
+            "wordcloud": "wordcloud/1437841643957280768.jpg",
+            "entities": [
+                "Guzm\u00e1n",
+                "derecha",
+                "Luminoso"
+            ]
+        },
+        {
+            "id": 1437774489912291328,
+            "title": "Per\u00fa: Disputa por el cad\u00e1ver de Abimael Guzm\u00e1n, fundador y l\u00edder de Sendero Luminoso \ud83d\udc49https://t.co/Q3LtT81Iwt",
+            "date": "2021-09-14 13:45:25",
+            "screen_name": "AristeguiOnline",
+            "name": "Aristegui Noticias",
+            "img": "http://pbs.twimg.com/media/E_QAR4kX0AARWBb.jpg",
+            "url": [
+                "https://t.co/wzcaaij581"
+            ],
+            "category": "sociedad",
+            "score": 5,
+            "sentiment": "sentiment/1437774489912291328.jpg",
+            "wordcloud": "wordcloud/1437774489912291328.jpg",
+            "entities": [
+                "l\u00edder",
+                "Guzm\u00e1n",
+                "LtT"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "news": [
+        {
+            "id": 1439802747742785536,
+            "title": "\ud83c\udfd0 \u00a1Grandes! \ud83c\udde8\ud83c\uddf4 Colombia clasific\u00f3 al Mundial de voleibol del 2022. Le contamos \ud83d\udc49",
+            "date": "2021-09-20 04:04:59",
+            "screen_name": "ELTIEMPO",
+            "name": "EL TIEMPO",
+            "img": "http://pbs.twimg.com/media/E_s0-B3WUAE2ArW.jpg",
+            "url": [
+                "https://t.co/jHeE4abXUN",
+                "https://t.co/wzK4kpwn51"
+            ],
+            "category": "deportes",
+            "score": 11,
+            "sentiment": "sentiment/1439802747742785536.jpg",
+            "wordcloud": "wordcloud/1439802747742785536.jpg",
+            "entities": [
+                "Colombia",
+                "Mundial de voleibol del",
+                "voleibol"
+            ]
+        },
+        {
+            "id": 1440334041639636992,
+            "title": "\ud83d\udcfa TV en DIRECTO | Montero, ministra de Hacienda, a un senador del PP: \"Cuando este Gobierno ha decidido recortar los beneficios de las energ\u00e9ticas han salido ustedes defendiendo a las energ\u00e9ticas. Dando la receta de siempre: que lo paguen los ciudadanos\"",
+            "date": "2021-09-21 15:16:10",
+            "screen_name": "el_pais",
+            "name": "EL PA\u00cdS",
+            "img": "http://pbs.twimg.com/amplify_video_thumb/1440333120033546246/img/NKxjKRwphMZsQv7_.jpg",
+            "url": [
+                "https://t.co/47wkyHhBAl",
+                "https://t.co/nJu33w4hr2"
+            ],
+            "category": "politica",
+            "score": 11,
+            "sentiment": "sentiment/1440334041639636992.jpg",
+            "wordcloud": "wordcloud/1440334041639636992.jpg",
+            "entities": [
+                "Hacienda",
+                "DIRECTO",
+                "senador"
+            ]
+        },
+        {
+            "id": 1438117145825710080,
+            "title": "Aunque este 2021 el #Ecuador recibi\u00f3 en inversi\u00f3n peruana USD 693 000 hasta marzo, una empresa ya tramita un contrato de inversi\u00f3n por USD 12 millones. Otras alistan su arribo \u00bb",
+            "date": "2021-09-15 12:27:01",
+            "screen_name": "elcomerciocom",
+            "name": "El Comercio",
+            "img": "http://pbs.twimg.com/media/E_U36faWQAUEkJA.jpg",
+            "url": [
+                "https://t.co/vp3V8rOHiR",
+                "https://t.co/QNJbVQ5CZq"
+            ],
+            "category": "economia",
+            "score": 9,
+            "sentiment": "sentiment/1438117145825710080.jpg",
+            "wordcloud": "wordcloud/1438117145825710080.jpg",
+            "entities": [
+                "empresa",
+                "contrato",
+                "Ecuador"
+            ]
+        },
+        {
+            "id": 1440760834339180544,
+            "title": "\ud83d\udd34M\u00e1s de 850 hect\u00e1reas de cobertura natural devast\u00f3 el incendio forestal que afect\u00f3 a tres distritos ubicados en la provincia de Cusco, cerca de la Ciudad Imperial.",
+            "date": "2021-09-22 19:32:05",
+            "screen_name": "Agencia_Andina",
+            "name": "Agencia Andina",
+            "img": "http://pbs.twimg.com/media/E_6cSh3UUAE33bV.jpg",
+            "url": [
+                "https://t.co/9GCI6CgkbA",
+                "https://t.co/kY2WT6pxck"
+            ],
+            "category": "sociedad",
+            "score": 8,
+            "sentiment": "sentiment/1440760834339180544.jpg",
+            "wordcloud": "wordcloud/1440760834339180544.jpg",
+            "entities": [
+                "provincia",
+                "cobertura",
+                "Ciudad Imperial"
+            ]
+        },
+        {
+            "id": 1440695129153564672,
+            "title": "\ud83d\udce2 El titular de la @pcmperu, Guido Bellido, anuncia la creaci\u00f3n del Ministerio de Ciencia y Tecnolog\u00eda e Innovaci\u00f3n. \ud83d\udc49",
+            "date": "2021-09-22 15:11:00",
+            "screen_name": "DiarioElPeruano",
+            "name": "Diario El Peruano",
+            "img": "http://pbs.twimg.com/media/E_5NPtKUUAQdttd.png",
+            "url": [
+                "https://t.co/BvfVz3TPpB",
+                "https://t.co/9lXccEx6U7"
+            ],
+            "category": "ciencia",
+            "score": 7,
+            "sentiment": "sentiment/1440695129153564672.jpg",
+            "wordcloud": "wordcloud/1440695129153564672.jpg",
+            "entities": [
+                "Guido",
+                "Bellido",
+                "Tecnolog\u00eda"
+            ]
+        },
+        {
+            "id": 1439986950501511168,
+            "title": "\ud83d\udd34 \u00daLTIMA HORA | Sanidad comunica 5.988 contagios de covid y 118 muertes desde el viernes. La incidencia en Espa\u00f1a baja 8 puntos hasta 83 casos por 100.000 habitantes",
+            "date": "2021-09-20 16:16:57",
+            "screen_name": "el_pais",
+            "name": "EL PA\u00cdS",
+            "img": "http://pbs.twimg.com/tweet_video_thumb/EbMYRBCWAAAnTkk.jpg",
+            "url": [
+                "https://t.co/IckjQSQZc3",
+                "https://t.co/58HfnyLE83"
+            ],
+            "category": "salud",
+            "score": 7,
+            "sentiment": "sentiment/1439986950501511168.jpg",
+            "wordcloud": "wordcloud/1439986950501511168.jpg",
+            "entities": [
+                "Espa\u00f1a",
+                "covid",
+                "contagios"
+            ]
+        },
+        {
+            "id": 1440133681507602432,
+            "title": "#ExaTrends #EdSheeran se prepara para su nuevo tour. \ud83e\udd29\ud83c\udfb6 El cantante ha confirmado la primera serie de conciertos de su pr\u00f3ximo tour \"+ \u2013 = \u00f7 X\".\ud83d\ude4c\ud83d\ude0e \ud83d\udcf8: Ed Sheeran",
+            "date": "2021-09-21 02:00:00",
+            "screen_name": "ExaFM",
+            "name": "Exa FM",
+            "img": "http://pbs.twimg.com/media/E_w38CMWUAABpET.jpg",
+            "url": [
+                "https://t.co/5unCMmT3v8"
+            ],
+            "category": "entretenimiento",
+            "score": 6,
+            "sentiment": "sentiment/1440133681507602432.jpg",
+            "wordcloud": "wordcloud/1440133681507602432.jpg",
+            "entities": [
+                "tour el cantante",
+                "conciertos",
+                "tour"
+            ]
+        },
+        {
+            "id": 1440500980840210432,
+            "title": "#EEGElOrigen El\u00edas Montalvo: Usuarios recuerdan cuando Austin Palao se quej\u00f3 de seguridad de los juegos de EEG \u25bahttps://t.co/iECVvYrhAu",
+            "date": "2021-09-22 02:19:31",
+            "screen_name": "elpopular_pe",
+            "name": "El Popular",
+            "img": "http://pbs.twimg.com/media/E_2wAXAUcAU_AUR.jpg",
+            "url": [
+                "https://t.co/kWAvhxVI3M"
+            ],
+            "category": "espectaculos",
+            "score": 5,
+            "sentiment": "sentiment/1440500980840210432.jpg",
+            "wordcloud": "wordcloud/1440500980840210432.jpg",
+            "entities": [
+                "EEGElOrigen",
+                "iECVvYrhAu",
+                "Palao"
+            ]
+        }
+    ]
+}

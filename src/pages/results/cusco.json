@@ -1,0 +1,86 @@
+{
+    "news": [
+        {
+            "id": 1440746606769233920,
+            "title": "\u00a1TRASCENDENTAL TRIUNFO! @sportboys consigui\u00f3 un gran resultado ante @Cusco_F_C en el estadio Iv\u00e1n El\u00edas Moreno. Con el triunfo por 3-2, gana protagonismo en la Fase 2 de la #LIGA1BETSSONXGOLPERU \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f #AlientaDesdeCasa \u2b07 \u2b07 \u2b07",
+            "date": "2021-09-22 18:35:33",
+            "screen_name": "GOLPERUoficial",
+            "name": "GOLPERU",
+            "img": "http://pbs.twimg.com/media/E_6PGezVIAIznsX.jpg",
+            "url": [
+                "https://t.co/6XVQAOT3Dv",
+                "https://t.co/BhJa8n41f6"
+            ],
+            "category": "deportes",
+            "score": 8,
+            "sentiment": "sentiment/1440746606769233920.jpg",
+            "wordcloud": "wordcloud/1440746606769233920.jpg",
+            "entities": [
+                "Fase",
+                "sportboys",
+                "LIGA"
+            ]
+        },
+        {
+            "id": 1438669331378761728,
+            "title": "#DiplomaciaCultural | El 14 de setiembre se anunci\u00f3 la segunda edici\u00f3n del Foro Cusco para el 2022. Se trata de un importante evento dedicado a la protecci\u00f3n del patrimonio cultural. Mayor informaci\u00f3n \ud83d\udc49\ud83c\udffbhttps://t.co/Q9I5q9iezr",
+            "date": "2021-09-17 01:01:12",
+            "screen_name": "CancilleriaPeru",
+            "name": "Canciller\u00eda Per\u00fa\ud83c\uddf5\ud83c\uddea",
+            "img": "http://pbs.twimg.com/media/E_cuIevWUAA4Dx9.jpg",
+            "url": [
+                "https://t.co/MWE5Zt2yvG"
+            ],
+            "category": "sociedad",
+            "score": 6,
+            "sentiment": "sentiment/1438669331378761728.jpg",
+            "wordcloud": "wordcloud/1438669331378761728.jpg",
+            "entities": [
+                "informaci\u00f3n",
+                "patrimonio",
+                "iezr"
+            ]
+        },
+        {
+            "id": 1440038763829219328,
+            "title": "Cusco: trabajador municipal fallece en incendio forestal",
+            "date": "2021-09-20 19:42:50",
+            "screen_name": "PTV_Noticias",
+            "name": "Panamericana Noticias",
+            "img": "http://pbs.twimg.com/media/E_wLn8lVQAkmGRi.jpg",
+            "url": [
+                "https://t.co/RBdF5MQ5zp",
+                "https://t.co/jX2a3SMgTY"
+            ],
+            "category": "sociedad",
+            "score": 6,
+            "sentiment": "sentiment/1440038763829219328.jpg",
+            "wordcloud": "wordcloud/1440038763829219328.jpg",
+            "entities": [
+                "incendio",
+                "Cusco"
+            ]
+        },
+        {
+            "id": 1438986087553175552,
+            "title": "#FotoNoticia\ud83d\udce2 | Durante su visita de trabajo a Cusco, el Dr. Mario Carhuapoma supervis\u00f3 la implementaci\u00f3n de la nueva infraestructura. Asimismo, el titular de EsSalud, impuls\u00f3 el proceso de vacunaci\u00f3n contra la #COVID19. \ud83d\udc49M\u00e1s informaci\u00f3n aqu\u00ed:",
+            "date": "2021-09-17 21:59:52",
+            "screen_name": "EsSaludPeru",
+            "name": "EsSalud",
+            "img": "http://pbs.twimg.com/media/E_hONlmXoAIkhLs.jpg",
+            "url": [
+                "https://t.co/Ay0RKhkiIZ",
+                "https://t.co/pszYd5W6NP"
+            ],
+            "category": "economia",
+            "score": 5,
+            "sentiment": "sentiment/1438986087553175552.jpg",
+            "wordcloud": "wordcloud/1438986087553175552.jpg",
+            "entities": [
+                "informaci\u00f3n",
+                "Mario",
+                "EsSalud"
+            ]
+        }
+    ]
+}
