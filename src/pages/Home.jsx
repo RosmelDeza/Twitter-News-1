@@ -39,7 +39,7 @@ function Home() {
                       style={{ textTransform: "uppercase" }}
                     >
                       {Data["news"][1].category}{" "}
-                      <a href={Data["news"][0].url[1]}>
+                      <a href={Data["news"][1].url[1]}>
                       <i class="fab fa-twitter" style={{color:"#00acee", borderColor:"white"}}></i>
                       </a>
                     </h5>
@@ -81,7 +81,7 @@ function Home() {
                       style={{ textTransform: "uppercase" }}
                     >
                       {Data["news"][3].category}{" "}
-                      <a href={Data["news"][0].url[1]}>
+                      <a href={Data["news"][3].url[1]}>
                       <i class="fab fa-twitter" style={{color:"#00acee", borderColor:"white"}}></i>
                       </a>
                     </h5>
@@ -168,7 +168,7 @@ function Home() {
                       style={{ textTransform: "uppercase" }}
                     >
                       {Data["news"][2].category}{" "}
-                      <a href={Data["news"][0].url[1]}>
+                      <a href={Data["news"][2].url[1]}>
                       <i class="fab fa-twitter" style={{color:"#00acee", borderColor:"white"}}></i>
                       </a>
                     </h5>
@@ -208,7 +208,7 @@ function Home() {
                       style={{ textTransform: "uppercase" }}
                     >
                       {Data["news"][4].category}{" "}
-                      <a href={Data["news"][0].url[1]}>
+                      <a href={Data["news"][5].url[1]}>
                       <i class="fab fa-twitter" style={{color:"#00acee", borderColor:"white"}}></i>
                       </a>
                     </h5>
@@ -252,7 +252,7 @@ function Home() {
                       style={{ textTransform: "uppercase" }}
                     >
                       {Data["news"][5].category}{" "}
-                      <a href={Data["news"][0].url[1]}>
+                      <a href={Data["news"][5].url[1]}>
                       <i class="fab fa-twitter" style={{color:"#00acee", borderColor:"white"}}></i>
                       </a>
                     </h5>
@@ -296,7 +296,7 @@ function Home() {
                       style={{ textTransform: "uppercase" }}
                     >
                       {Data["news"][6].category}{" "}
-                      <a href={Data["news"][0].url[1]}>
+                      <a href={Data["news"][6].url[1]}>
                       <i class="fab fa-twitter" style={{color:"#00acee", borderColor:"white"}}></i>
                       </a>
                     </h5>
@@ -340,7 +340,7 @@ function Home() {
                       style={{ textTransform: "uppercase" }}
                     >
                       {Data["news"][7].category}{" "}
-                      <a href={Data["news"][0].url[1]}>
+                      <a href={Data["news"][7].url[1]}>
                       <i class="fab fa-twitter" style={{color:"#00acee", borderColor:"white"}}></i>
                       </a>
                     </h5>
